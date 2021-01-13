@@ -1,8 +1,39 @@
-# icecream
-Ice Cream Mod To Minetest
+#Ice Cream Mod
+
+one mod to create your favorite ice cream, and more!!!!
+
+First create a Cone, with the specific Dough, give it the shape, and then on the Furnace.
+
+This Dough is created with 2 Wheat Dough and one Egg. 
+
+A cone, snow and. . . .  Chocolate? Or more. 
+
+This mod Depend (mobs, mobs_animal, farming) (not necessarily "mobs", you can also use any other that has an egg "group: food_egg")
+
+This is my first mod
+
+With the time i add more ice creams
 
 
-# This mod add...
--Mint, Pumpkin, Vanilla,Apple, Banana, Carrot, Chocolate, Watermelon, Orange, Pineapple.
 
--Cone
+----------
+
+v1.3: 
+
+Change mobs:egg to group:food_egg
+
+add Changes.txt
+
+add Mint, Pumpkin, Vanilla
+
+v1.2: Correction
+
+v1.1: add Cone-shaped dough
+
+v1.0: Add Ice Creams, Cone, Dough
+
+Apple, Banana, Carrot, Chocolate, Watermelon, Orange, Pineapple.
+
+
+
+https://github.com/Can202/icecream
