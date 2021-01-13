@@ -6,7 +6,7 @@ minetest.register_craft({
 	recipe = {
 		{"","",""},
 		{"farming:flour","","farming:flour"},
-		{"","mobs:egg",""},
+		{"","group:food_egg",""},
 	}
 })
 --Dough Cone
@@ -81,6 +81,33 @@ minetest.register_craft({
 	recipe = {
 		{"default:snow"},
 		{"farming:pineapple"},
+		{"icecream:cone"},
+	}
+})
+--Vanilla icecream
+minetest.register_craft({
+	output = "icecream:vanilla",
+	recipe = {
+		{"default:snow"},
+		{"farming:vanilla"},
+		{"icecream:cone"},
+	}
+})
+--Pumpkin icecream
+minetest.register_craft({
+	output = "icecream:pumpkin",
+	recipe = {
+		{"default:snow"},
+		{"farming:pumpkin_slice"},
+		{"icecream:cone"},
+	}
+})
+--Mint icecream
+minetest.register_craft({
+	output = "icecream:mint",
+	recipe = {
+		{"default:snow"},
+		{"farming:mint_leaf"},
 		{"icecream:cone"},
 	}
 })

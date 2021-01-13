@@ -70,3 +70,21 @@ minetest.register_craftitem("icecream:watermelon", {
 	inventory_image = "icecream_watermelon.png",
 	on_use = minetest.item_eat(6)
 })
+--Vanilla icecream
+minetest.register_craftitem("icecream:vanilla", {
+	description = ("Vanilla IceCream"),
+	inventory_image = "icecream_vanilla.png",
+	on_use = minetest.item_eat(10)
+})
+--Pumpkin icecream
+minetest.register_craftitem("icecream:pumpkin", {
+	description = ("Pumpkin IceCream"),
+	inventory_image = "icecream_pumpkin.png",
+	on_use = minetest.item_eat(6)
+})
+--Mint icecream
+minetest.register_craftitem("icecream:mint", {
+	description = ("Mint IceCream"),
+	inventory_image = "icecream_mint.png",
+	on_use = minetest.item_eat(12)
+})
