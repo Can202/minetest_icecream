@@ -18,6 +18,12 @@ With the time i add more ice creams
 
 ----------
 
+
+v1.4:
+
+add Strawberry, Blueberries
+
+
 v1.3: 
 
 Change mobs:egg to group:food_egg
