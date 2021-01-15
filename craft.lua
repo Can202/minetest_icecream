@@ -111,3 +111,21 @@ minetest.register_craft({
 		{"icecream:cone"},
 	}
 })
+--Blueberries icecream
+minetest.register_craft({
+	output = "icecream:blueberries",
+	recipe = {
+		{"default:snow"},
+		{"default:blueberries"},
+		{"icecream:cone"},
+	}
+})
+--Strawberry icecream
+minetest.register_craft({
+	output = "icecream:strawberry",
+	recipe = {
+		{"default:snow"},
+		{"ethereal:strawberry"},
+		{"icecream:cone"},
+	}
+})

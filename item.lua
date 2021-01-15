@@ -88,3 +88,15 @@ minetest.register_craftitem("icecream:mint", {
 	inventory_image = "icecream_mint.png",
 	on_use = minetest.item_eat(12)
 })
+-- Blueberries Icecream
+minetest.register_craftitem("icecream:blueberries", {
+	description = ("Blueberries IceCream"),
+	inventory_image = "icecream_blueberries.png",
+	on_use = minetest.item_eat(6)
+})
+-- Strawberry Icecream
+minetest.register_craftitem("icecream:strawberry", {
+	description = ("Strawberry IceCream"),
+	inventory_image = "icecream_strawberry.png",
+	on_use = minetest.item_eat(10)
+})
