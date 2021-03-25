@@ -1,5 +1,7 @@
 #Ice Cream Mod
 
+https://content.minetest.net/packages/Can202/icecream/
+
 one mod to create your favorite ice cream, and more!!!!
 
 First create a Cone, with the specific Dough, give it the shape, and then on the Furnace.
