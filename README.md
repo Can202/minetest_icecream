@@ -20,6 +20,9 @@ With the time i add more ice creams
 
 ----------
 
+v1.5:
+
+add Vanilla with Cookies, Chocolate with Cookies
 
 v1.4:
 
