@@ -57,6 +57,20 @@ minetest.register_craftitem("icecream:chocolate", {
 	on_use = minetest.item_eat(8)
 })
 
+--chocolate with cookies icecream
+minetest.register_craftitem("icecream:chocolate_with_cookies", {
+	description = ("Chocolate with Cookies IceCream"),
+	inventory_image = "icecream_chocolate_and_cookie.png",
+	on_use = minetest.item_eat(12)
+})
+
+--vanilla with cookies icecream
+minetest.register_craftitem("icecream:vanilla_with_cookies", {
+	description = ("Vanilla with Cookies IceCream"),
+	inventory_image = "icecream_vanilla_and_cookie.png",
+	on_use = minetest.item_eat(12)
+})
+
 --orange icecream
 minetest.register_craftitem("icecream:orange", {
 	description = ("Orange IceCream"),

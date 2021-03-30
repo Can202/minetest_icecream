@@ -57,6 +57,24 @@ minetest.register_craft({
 		{"icecream:cone"},
 	}
 })
+--chocolate with cookies icecream
+minetest.register_craft({
+	output = "icecream:chocolate_with_cookies",
+	recipe = {
+		{"farming:cookie"},
+		{"icecream:chocolate"},
+	}
+})
+
+--vanilla with cookies icecream
+minetest.register_craft({
+	output = "icecream:vanilla_with_cookies",
+	recipe = {
+		{"farming:cookie"},
+		{"icecream:vanilla"},
+	}
+})
+
 --Watermelon icecream
 minetest.register_craft({
 	output = "icecream:watermelon",
