@@ -47,4 +47,4 @@ Apple, Banana, Carrot, Chocolate, Watermelon, Orange, Pineapple.
 
 
 
-https://github.com/Can202/icecream
+https://github.com/Can202/minetest_icecream
