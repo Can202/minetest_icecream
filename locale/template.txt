@@ -1,0 +1,19 @@
+# textdomain: icecream
+
+Apple IceCream=
+Pineapple IceCream=
+Banana IceCream=
+Carrot IceCream=
+Chocolate IceCream=
+Vanilla IceCream=
+Orange IceCream=
+Watermelon IceCream=
+Pumpkin IceCream=
+Mint IceCream=
+Blueberries IceCream=
+Strawberry IceCream=
+Chocolate with Cookies IceCream=
+Vanilla with Cookies IceCream=
+Cone-shaped dough=
+Cone Dough=
+Cone=
