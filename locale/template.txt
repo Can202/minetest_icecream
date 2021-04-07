@@ -17,3 +17,7 @@ Vanilla with Cookies IceCream=
 Cone-shaped dough=
 Cone Dough=
 Cone=
+
+#Awards
+Jummy but frost=
+Craft one IceCream.=
