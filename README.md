@@ -20,6 +20,10 @@ With the time i add more ice creams
 
 -----------
 
+v1.7:
+
+add Awards
+
 v1.6:
 
 add Translate
