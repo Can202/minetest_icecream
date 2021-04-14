@@ -14,9 +14,9 @@ Hear505 (Draw Cover Page)
 
 local modpath = minetest.get_modpath("icecream")
 
-dofile(modpath.."/item.lua")
-dofile(modpath.."/craft.lua")
+dofile(modpath.."/src/item.lua")
+dofile(modpath.."/src/craft.lua")
 
 if minetest.get_modpath("awards") then
-	dofile(modpath.."/awards.lua")
+	dofile(modpath.."/src/awards.lua")
 end
