@@ -20,6 +20,10 @@ With the time i add more ice creams
 
 -----------
 
+v1.8:
+
+put the code on src folder
+
 v1.7:
 
 add Awards
