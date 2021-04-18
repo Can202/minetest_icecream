@@ -13,3 +13,33 @@ awards.register_award("icecream:icecream", {
 		target = 1
 	}
 })
+awards.register_award("icecream:snow", {
+	title = S("For later, For Ice Cream"),
+	icon = "icecream_award_snow.png",
+	description = S("Dig Snow."),
+	trigger = {
+		type = "dig",
+		item = "default:snow",
+		target = 1
+	}
+})
+awards.register_award("icecream:dough", {
+	title = S("Kneading dough"),
+	icon = "icecream_award_dough.png",
+	description = S("Craft one Cone Dough."),
+	trigger = {
+		type = "craft",
+		item = "icecream:dough",
+		target = 1
+	}
+})
+awards.register_award("icecream:cone", {
+	title = S("Mega Cone"),
+	icon = "icecream_award_cone.png",
+	description = S("Eat your Cone."),
+	trigger = {
+		type = "eat",
+		item = "icecream:cone",
+		target = 1
+	}
+})

@@ -21,3 +21,9 @@ Cone=
 #Awards
 Jummy but frost=
 Craft one IceCream.=
+For later, For Ice Cream=
+Dig Snow.=
+Kneading dough=
+Craft one Cone Dough.=
+Mega Cone=
+Eat your Cone.=
