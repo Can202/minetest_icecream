@@ -16,7 +16,7 @@ awards.register_award("icecream:icecream", {
 awards.register_award("icecream:snow", {
 	title = S("For later, For Ice Cream"),
 	icon = "icecream_award_snow.png",
-	description = S("Dig Snow."),
+	description = S("Get snow."),
 	trigger = {
 		type = "dig",
 		item = "default:snow",
