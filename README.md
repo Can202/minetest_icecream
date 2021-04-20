@@ -20,6 +20,10 @@ With the time i add more ice creams
 
 -----------
 
+v2.0:
+
+new screenshot
+
 v1.9:
 
 add more awards
