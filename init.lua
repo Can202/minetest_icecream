@@ -4,11 +4,9 @@ Ice Cream Mod by Can202
 
 Credits:
 
-We Used VSCode(to edit text), Pixelorama(Edit Pixel Art), Krita (Drawing)
+We Used VSCode(to edit text), Pixelorama(Edit Pixel Art)
 
 Can202 (Coding, and Pixel Art)
-Eduardo2.0 (Pixel Art)
-Hear505 (Draw Cover Page)
 
 ]]
 
