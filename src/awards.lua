@@ -4,7 +4,7 @@
 local S = minetest.get_translator("icecream")
 
 awards.register_award("icecream:icecream", {
-	title = S("Jummy but frost"),
+	title = S("Jummy..."),
 	icon = "icecream_award.png",
 	description = S("Craft one IceCream."),
 	trigger = {
