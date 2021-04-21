@@ -43,3 +43,13 @@ awards.register_award("icecream:cone", {
 		target = 1
 	}
 })
+awards.register_award("icecream:frozen", {
+	title = S("Froooozen Brain"),
+	icon = "icecream_award_frozen.png",
+	description = S("Eat one IceCream."),
+	trigger = {
+		type = "eat",
+		item = "group:food_icecream",
+		target = 1
+	}
+})
