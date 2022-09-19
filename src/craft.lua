@@ -98,7 +98,7 @@ minetest.register_craft({
 	output = "icecream:pineapple",
 	recipe = {
 		{"default:snow"},
-		{"farming:pineapple"},
+		{"farming:pineapple_ring"},
 		{"icecream:cone"},
 	}
 })
