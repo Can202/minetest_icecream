@@ -36,7 +36,7 @@ minetest.register_craftitem("icecream:apple", {
 minetest.register_craftitem("icecream:pineapple", {
 	description = S("Pineapple IceCream"),
 	inventory_image = "icecream_pineapple.png",
-	on_use = minetest.item_eat(8),
+	on_use = minetest.item_eat(4),
 	groups = {food_icecream = 1}
 })
 
@@ -128,5 +128,30 @@ minetest.register_craftitem("icecream:strawberry", {
 	description = S("Strawberry IceCream"),
 	inventory_image = "icecream_strawberry.png",
 	on_use = minetest.item_eat(10),
+	groups = {food_icecream = 1}
+})
+
+
+--grapes icecream
+minetest.register_craftitem("icecream:grapes", {
+	description = S("Grapes IceCream"),
+	inventory_image = "icecream_grapes.png",
+	on_use = minetest.item_eat(8),
+	groups = {food_icecream = 1}
+})
+
+--raspberry icecream
+minetest.register_craftitem("icecream:raspberry", {
+	description = S("Raspberry IceCream"),
+	inventory_image = "icecream_raspberry.png",
+	on_use = minetest.item_eat(8),
+	groups = {food_icecream = 1}
+})
+
+--garlic icecream
+minetest.register_craftitem("icecream:garlic", {
+	description = S("Garlic IceCream!?"),
+	inventory_image = "icecream_garlic.png",
+	on_use = minetest.item_eat(4),
 	groups = {food_icecream = 1}
 })

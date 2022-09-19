@@ -147,3 +147,34 @@ minetest.register_craft({
 		{"icecream:cone"},
 	}
 })
+
+
+--Grapes icecream
+minetest.register_craft({
+	output = "icecream:grapes",
+	recipe = {
+		{"default:snow"},
+		{"farming:grapes"},
+		{"icecream:cone"},
+	}
+})
+
+--Raspberry icecream
+minetest.register_craft({
+	output = "icecream:raspberry",
+	recipe = {
+		{"default:snow"},
+		{"farming:raspberries"},
+		{"icecream:cone"},
+	}
+})
+
+--Garlic icecream
+minetest.register_craft({
+	output = "icecream:garlic",
+	recipe = {
+		{"default:snow"},
+		{"farming:garlic_clove"},
+		{"icecream:cone"},
+	}
+})
