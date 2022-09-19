@@ -20,6 +20,11 @@ With the time i add more ice creams
 
 -----------
 
+v2.2:
+
+add an Raspberries, Grapes and Garlic Icecream
+Change Pineapple Icecream Recipe
+
 v2.1:
 
 add an Award
